@@ -1,0 +1,12 @@
+{
+  "name": "ridex",
+  "version": "1.0.0",
+  "description": "RideX - Ride hailing website",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
